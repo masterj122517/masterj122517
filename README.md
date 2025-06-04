@@ -22,8 +22,12 @@
     </div>
     <h2 align="center">Tools</h2>
     <div align="center">
-        <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim" style="height:40px">
-        <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" alt="emacs" style="height:40px">
+        <a href="https://github.com/masterj122517/nvim" target="_blank">
+          <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim" style="height:40px">
+        </a>
+        <a href="https://github.com/masterj122517/dotfile/tree/macos/emacs/.emacs.d" target="_blank">
+          <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" alt="emacs" style="height:40px">
+        </a>
     </div>
 </div>
 <hr>
@@ -36,4 +40,3 @@
 
 ------
 
-Credit: [francojimenezcopati](https://github.com/masterj122517)
